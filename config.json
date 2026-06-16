@@ -1,0 +1,39 @@
+{
+  "s1": {
+    "history_window": 30,
+    "history_end_offset": 3,
+    "volatility_14d_max": 0.055,
+    "volatility_7d_max": 0.05,
+    "volume_ma_period": 5,
+    "volume_ma_t7_offset": 7,
+    "spike_ratio_threshold": 2.0,
+    "spike_count_min": 4,
+    "acc_end_volume_peak_ratio": 0.6,
+    "washout_day_min": 3,
+    "washout_day_max": 5,
+    "pullback_min": 0.05,
+    "pullback_max": 0.16,
+    "contraction_ratio": 0.82
+  },
+  "s2": {
+    "window": 30,
+    "sideways_range_min": 0.1,
+    "sideways_range_max": 0.45,
+    "bottom_min_sep": 5,
+    "bottom_band_tolerance": 0.03,
+    "bottom_count_min": 2,
+    "bottom_spread_max": 0.1,
+    "support_ratio_min": 0.98,
+    "support_ratio_max": 1.06,
+    "shrink_ratio_min": 0.15,
+    "shrink_ratio_max": 1.0,
+    "rebound_low_guard": 0.98,
+    "recent_pump_ratio_14_max": 1.22,
+    "recent_max_abs_return_14_max": 0.1
+  },
+  "s3": {
+    "volume_multiple": 4.0,
+    "non_zero_window": 20,
+    "non_zero_min_ratio": 0.8
+  }
+}
