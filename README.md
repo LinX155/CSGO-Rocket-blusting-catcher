@@ -5,7 +5,7 @@
 
 <p><strong>无需API Token，使用浏览器自动化技术抓取CSQAQ网站的饰品K线数据</strong></p>
 <p>支持单ID抓取、批量抓取、数据库存储和量化分析</p>
-<p>策略部分与策略程序的使用参见https://github.com/LinX155/CSGO-Rocket-blusting-catcher/blob/main/STRATEGY_GUIDE_V6_3STRATEGIES.md</p>
+<p>量化策略部分与策略程序的使用参见STRATEGY_GUIDE_V6_3STRATEGIES.md</p>
 
 </div>
 
